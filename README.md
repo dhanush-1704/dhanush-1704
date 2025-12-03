@@ -1,55 +1,53 @@
-## Hi there 👋
-
-<h2 align="center">Hi, I'm Dhanush 👋</h2>
+<!-- Header -->
+<h1 align="center">Hi 👋 I'm Dhanush</h1>
+<h3 align="center">Data & AI Enthusiast</h3>
 
 <p align="center">
-  <b>Data • AI • Machine Learning • LLM Enthusiast</b>
+  Passionate about Machine Learning, LLMs, Data Engineering, and building useful tools with Python.
 </p>
 
----
-
-### 🚀 Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,sqlite,mysql,postgresql,fastapi,flask,html,css" />
-</p>
-
----
-
-### 🧠 Interests  
-- Machine Learning  
-- Data Science  
-- LLMs / GenAI  
-- Backend Development  
-- Automation  
-
----
-
-### 🏆 GitHub Trophies
+<!-- Badges Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-1704&theme=algolia&margin-w=10&no-frame=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me  
+- Focused on **Data Science, AI, and Large Language Models**  
+- Love working with **Python, FastAPI, SQL, and ML libraries**  
+- Exploring **cloud, automation, and backend systems**  
+- Always learning & building things that scale  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+Python • SQL • Java  
+
+**Libraries / Tools:**  
+Pandas • NumPy • Scikit-learn • FastAPI • Flask • SQLAlchemy  
+
+**Other:**  
+Git • GitHub • REST APIs • GCP • Linux  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhanush-1704&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-1704&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dhanush-1704&show_icons=true&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-1704&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanush-1704&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanush-1704&label=Profile+Views&color=blue&style=flat" />
-</p>
+## 🤝 Connect  
+💼 Open to internship opportunities in **Data Science / AI / Backend Engineering**  
 
 ---
 
