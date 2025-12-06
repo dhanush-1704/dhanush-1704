@@ -13,9 +13,8 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=dhanush-1704&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=dhanush-1704&color=blue" alt="Profile views"/>
 </p>
-
 
 ---
 
