@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=dhanush-1704&color=blue)
 
 ---
 
